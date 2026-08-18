@@ -20,7 +20,14 @@ A Python-based forecasting pipeline built as a decision-support system for proba
 - Edge identification — flagging which markets to trade vs. skip
 - Risk management via a skip framework for position sizing and drawdown control
 
-## Key Insight
+## Final Results
+![Final Leaderboard Rank](Final Leaderboard Rank.png)
+![Calibration Curve](Calibration Curve.png)
+![Category Performance](Category Performance.png)
+![Competition Highlights](Competition Highlights.png)
+![Match Highs and Lows](Match Highs and Lows.png)
+
+## Key Insights
 
 Relative Brier scoring rewards distance from the crowd, not just distance from the outcome — accuracy alone isn't sufficient if the field is also accurate. The largest performance gains came from three sources:
 
