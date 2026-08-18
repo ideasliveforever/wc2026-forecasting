@@ -21,11 +21,11 @@ A Python-based forecasting pipeline built as a decision-support system for proba
 - Risk management via a skip framework for position sizing and drawdown control
 
 ## Final Results
-![Final Leaderboard Rank](Final Leaderboard Rank.png)
-![Calibration Curve](Calibration Curve.png)
-![Category Performance](Category Performance.png)
-![Competition Highlights](Competition Highlights.png)
-![Match Highs and Lows](Match Highs and Lows.png)
+![Final Leaderboard Rank](final-leaderboard-rank.png)
+![Calibration Curve](calibration-curve.png)
+![Category Performance](category-performance.png)
+![Competition Highlights](competition-highlights.png)
+![Match Highs and Lows](match-highs-and-lows.png)
 
 ## Key Insights
 
